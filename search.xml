@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>JavaWeb笔记</title>
-      <link href="/2022/11/09/javaweb/"/>
-      <url>/2022/11/09/javaweb/</url>
-      
-        <content type="html"><![CDATA[<h1 id="JavaWeb笔记"><a href="#JavaWeb笔记" class="headerlink" title="JavaWeb笔记"></a>JavaWeb笔记</h1><h2 id="第一章-开发工具"><a href="#第一章-开发工具" class="headerlink" title="第一章 开发工具"></a>第一章 开发工具</h2><h3 id="1-1、JDK安装"><a href="#1-1、JDK安装" class="headerlink" title="1.1、JDK安装"></a>1.1、JDK安装</h3><p><strong>第一步：打开官网进行下载</strong>（<a href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html%EF%BC%89">https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html）</a></p><img src="/2022/11/09/javaweb/image-20221109084745111.png" class title="jdk安装">]]></content>
-      
-      
-      <categories>
-          
-          <category> JavaWeb </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> JavaWeb </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>测试页面</title>
       <link href="/2022/11/07/test/"/>
       <url>/2022/11/07/test/</url>
